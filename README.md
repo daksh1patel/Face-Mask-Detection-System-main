@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 😷 Real-Time Face Mask Detector
 
 > Real-time face mask detection using webcam, OpenCV, and MobileNetV2 deep learning — built from scratch.
@@ -200,3 +201,8 @@ MIT License — free to use, modify, and distribute.
 - Dataset: [chandrikadeb7/Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection)
 - Face detector: OpenCV ResNet SSD
 - Classification: MobileNetV2 (Google)
+=======
+"# Foram-Bangls" 
+"# Foram-Bangls" 
+"# Face-Mask-Detection-System-main" 
+>>>>>>> 3533356b4ea5ae7f6a3c1004d2c0af093306aea0
